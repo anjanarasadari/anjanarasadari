@@ -15,7 +15,7 @@ I specialize in **Spring Boot**, **AWS**, **RESTful services**, and have strong 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/anjana-rasadari-73536a137/)
-- 📧 [Email](mailto:anjanarasadari21@gmail.com)
+- 📧 [Gmail](mailto:anjanarasadari21@gmail.com)
 - 📱 [GitHub](https://github.com/anjanarasadari)
 - 📍 **Location:** Colombo, Sri Lanka
 
