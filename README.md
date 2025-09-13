@@ -115,26 +115,6 @@ I specialize in **Spring Boot**, **AWS**, **RESTful services**, and have strong 
 
 ## 🎯 Featured Projects
 
-### 🚀 [PAYable IPG System](https://github.com/your-username/payable-ipg)
-A versatile payment gateway supporting multiple banks and currencies with quick payment links and invoice customization.
-
-**Tech Stack:** `Java` `Spring Boot` `AWS` `MySQL` `REST APIs`
-
-### 🏠 [SettleIn - Property Management](https://github.com/your-username/settlein)
-Comprehensive property and rent management solution enhancing tenant satisfaction and operational efficiency.
-
-**Tech Stack:** `Java` `Spring MVC` `Angular` `MongoDB` `Docker`
-
-### 🤖 [Machine Learning - Dormant Merchants Detection](https://github.com/your-username/ml-dormant-merchants)
-ML-based algorithmic approach to accurately identify dormant merchants in payment systems.
-
-**Tech Stack:** `Python` `scikit-learn` `pandas` `Machine Learning`
-
-### 🌐 [IoT Farm Management System](https://github.com/anjanarasadari/iot-farm-management)
-Government project improving connectivity among shops, vehicles, and stock while ensuring food safety.
-
-**Tech Stack:** `Java` `IoT` `JavaScript` `Bootstrap` `MySQL`
-
 ### 🎒 [Backpacking Sri Lanka](https://github.com/anjanarasadari/backpacking-sri-lanka)
 Web-based tour planning system for safari arrangements, hotel reservations, and passenger pickups.
 
