@@ -79,61 +79,17 @@ I specialize in **Spring Boot**, **AWS**, **RESTful services**, and have strong 
 </div>
 
 ---
-
-## 💼 Professional Experience
-
-### 🏢 Senior Software Engineer
-**PAYable** | Colombo, Sri Lanka _(March 2025 - Present)_
-- 🏗️ **Product Owner** for SettleIn - Property & rent management solution
-- ⚡ Architected and deployed scalable applications on AWS (EC2, Lambda, S3, RDS)
-- 🔧 Design and develop REST-based Java applications using Spring Boot & Hibernate
-- 👥 Lead and mentor development teams, promoting technical growth
-- 📋 Manage end-to-end project delivery from architecture to deployment
-
-### 🏢 Software Engineer | Associate Software Engineer  
-**PAYable** | Colombo, Sri Lanka _(March 2021 - March 2025)_
-- 💳 **IPG (Internet Payment Gateway)** - Developed merchant transaction systems
-- 📱 **Tap On Phone** - NFC-based payment application development
-- 📨 **Hutch BSMS** - Java backend for bulk SMS service portal
-- 🏠 **SettleIn** - Property management solution (Product Owner role)
-
-### 🏢 Associate Software Engineer | Software Engineer Intern
-**N-able Pvt Ltd** | Colombo, Sri Lanka _(August 2019 - December 2020)_
-- 🏦 **Sampath Bank Omni Channel Corporate** - Spring Boot RESTful services
-- 🏧 **KIOSK/ATM Digital Bank** - Integrated systems for deposits and inquiries
-
----
-
 ## 🎯 Featured Projects
 
 ### 🤖 [Machine Learning - Dormant Merchants Detection](https://github.com/anjanarasadari/Dormant-Merchants-Detection)
 ML-based algorithmic approach to accurately identify dormant merchants in payment systems.
 
 ---
+## ⚡ Fun Facts
+* 💡 I love building smart automation workflows that boost quality & save time
+* 🧘 I enjoy mindfulness, languages, music, and discovering new cultures
+* 🛠️ Nothing excites me more than clean, reliable, scalable test code
 
-## 🎓 Education & Certifications
-
-### 📚 Academic Qualifications
-- 🎓 **MSc. in Computer Science** - University of Colombo School of Computing _(2022 - Present)_
-- 🎓 **BSc. in Computer Science** - University of Colombo School of Computing _(2016 - 2020)_
-
-### 🏅 Certifications
-- ☕ **Comprehensive Master Java Developer** - Institute of Software Engineering (IJSE)
-
----
-
-## 🔬 Research & Academic Projects
-
-### 🧠 Machine Learning Research
-**Dormant Merchants Detection Algorithm** - Developing automated methods for merchant activity analysis in fintech systems
-
-### 🌾 IoT Systems
-**Government Farm Management System** - IoT-based connectivity solutions for agricultural supply chains
-
-### 🏫 Management Systems
-**University Management System** - Complete student registration, grading, and lab allocation system
-
----
 
 ## 💡 Core Competencies
 
