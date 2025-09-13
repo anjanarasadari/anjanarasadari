@@ -95,7 +95,7 @@ I specialize in **Spring Boot**, **AWS**, **RESTful services**, and have strong 
 - 💳 **IPG (Internet Payment Gateway)** - Developed merchant transaction systems
 - 📱 **Tap On Phone** - NFC-based payment application development
 - 📨 **Hutch BSMS** - Java backend for bulk SMS service portal
-- 🏠 **SettleIn** - Property management solution (Project Owner role)
+- 🏠 **SettleIn** - Property management solution (Product Owner role)
 
 ### 🏢 Associate Software Engineer | Software Engineer Intern
 **N-able Pvt Ltd** | Colombo, Sri Lanka _(August 2019 - December 2020)_
