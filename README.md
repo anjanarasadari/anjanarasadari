@@ -84,7 +84,7 @@ I specialize in **Spring Boot**, **AWS**, **RESTful services**, and have strong 
 
 ### 🏢 Senior Software Engineer
 **PAYable** | Colombo, Sri Lanka _(March 2025 - Present)_
-- 🏗️ **Project Owner** for SettleIn - Property & rent management solution
+- 🏗️ **Product Owner** for SettleIn - Property & rent management solution
 - ⚡ Architected and deployed scalable applications on AWS (EC2, Lambda, S3, RDS)
 - 🔧 Design and develop REST-based Java applications using Spring Boot & Hibernate
 - 👥 Lead and mentor development teams, promoting technical growth
