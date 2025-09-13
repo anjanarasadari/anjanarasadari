@@ -106,10 +106,8 @@ I specialize in **Spring Boot**, **AWS**, **RESTful services**, and have strong 
 
 ## 🎯 Featured Projects
 
-### 🎒 [Backpacking Sri Lanka](https://github.com/anjanarasadari/backpacking-sri-lanka)
-Web-based tour planning system for safari arrangements, hotel reservations, and passenger pickups.
-
-**Tech Stack:** `Java` `JavaScript` `Bootstrap` `MySQL`
+### 🤖 [Machine Learning - Dormant Merchants Detection](https://github.com/anjanarasadari/Dormant-Merchants-Detection)
+ML-based algorithmic approach to accurately identify dormant merchants in payment systems.
 
 ---
 
