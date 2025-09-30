@@ -65,20 +65,6 @@ I specialize in **Spring Boot**, **AWS**, **RESTful services**, and have strong 
 ![Mockito](https://img.shields.io/badge/-Mockito-25A162?style=flat&logo=java&logoColor=white)
 
 ---
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anjanarasadari&theme=radical&row=2&column=3" alt="GitHub Trophies" />
-</div>
-
----
-
-## 🔥 Streak Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjanarasadari&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 ## 🎯 Featured Projects
 
 ### 🤖 [Machine Learning - Dormant Merchants Detection](https://github.com/anjanarasadari/Dormant-Merchants-Detection)
