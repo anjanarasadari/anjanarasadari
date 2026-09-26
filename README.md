@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anjana Rasadari
 
-I'm a passionate **Senior Software Engineer** with over **7 years of experience** specializing in **Java frameworks** and **cloud computing** across web, embedded, and regulated systems.
+I'm a passionate **Senior Software Engineer** with with **7 years of experience** specializing in **Java frameworks** and **cloud computing** across web, embedded, and regulated systems.
 
 I specialize in **Spring Boot**, **AWS**, **RESTful services**, and have strong skills in **Java** and **Python**.
 
